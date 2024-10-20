@@ -6,35 +6,31 @@ profx:
     github: xiaohang007
     role: faculty
     image: /Lyu photo.jpg
-    bio: Team leader
+    bio: Group Leader
     
 
-scott:
-    display_name: "Scott Summers"
+Alice:
+    display_name: "Alice"
     role: staff
-    image: /img/people/scott.png
+    image: /img/people/alice.jpeg
     bio: aka Cyclops
 
-wolverine:
-    display_name: "Wolverine"
+Adam:
+    display_name: "Adam"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     github: wolverine
     role: postdoc
 
     
-
-
-
-    
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+James:
+    display_name: "James"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/James.jpeg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+Jenny:
+    display_name: "Jenny"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/Jenny.jpeg
 
 storm:
     display_name: "虚位以待  We need you!"
@@ -49,37 +45,37 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+Davis:
+    display_name: "Davis [高级顾问] "
     role: collab
 
 
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+Steven:
+    display_name: "Steven"
     role: collab
 
-xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+zhangxue:
+    display_name: "张雪"
     role: collab
     
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+zhaoliang:
+    display_name: "赵亮 Liang Zhao"
     role: collab
 
-chenyan:
-    display_name: "陈炎 Yan Chen"
+chenzhuoxi:
+    display_name: "陈卓 zhuo Chen"
     role: collab
     
-juzheng:
-    display_name: "宋居正 Juzheng Song"
+liuyanan:
+    display_name: "刘亚楠 Yanan Liu"
     role: collab
 
-yayun:
-    display_name: "张亚运 Yayun Zhang"
+zhoushuiming:
+    display_name: "周水明 Shuiming Zhou"
     role: collab
 
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+houqingxiang:
+    display_name: "候清翔 Qingxiang Hou"
     role: collab
     
 
